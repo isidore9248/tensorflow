@@ -1,5 +1,15 @@
 ## conda4.12.0 + tensorflow2.10.0 + CUDA11.8 + python3.9 
 
+## 文件目录
+
+- `0_testenvironment.py` - TensorFlow环境测试文件
+
+- `tensorInit.py` - TensorFlow基础张量操作示例
+
+- `basicstep.py` - TensorFlow训练模型的六步法示例
+
+
+
 ## anaconda环境配置
 ### 修改Anaconda创建虚拟环境的默认安装位置
 - 修改.condarc配置文件
