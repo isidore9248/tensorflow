@@ -8,6 +8,8 @@
 
 - `basicstep.py` - TensorFlow训练模型的六步法示例
 
+- `1_basic/trainmydataset.py` - 使用TensorFlow训练自定义数据集示例
+
 
 
 ## anaconda环境配置
