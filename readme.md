@@ -1,4 +1,4 @@
-## conda4.12.0 + tensorflow2.10.0 + CUDA11.8 + python3.9 
+## conda3-4.12.0 + tensorflow2.10.0 + CUDA11.8 + python3.9 
 
 ## 文件目录
 
@@ -44,13 +44,16 @@ Conda会自动识别迁移后的环境
 ## 环境变量
 - anaconda
 </br>
+
 ```D:\anaconda\install```
 ```D:\anaconda\install\Library\mingw-w64\bin```
 ```D:\anaconda\install\Library\usr\bin```
 ```D:\anaconda\install\Library\bin```
 ```D:\anaconda\install\Scripts```
+
 - CUDA
 </br>
+
 ```D:\cuda\install\11.8\CUDA\bin```
 ```D:\cuda\install\11.8\CUDA\libnvvp```
 ```D:\cuda\development\extras\CUPTI\lib64```
